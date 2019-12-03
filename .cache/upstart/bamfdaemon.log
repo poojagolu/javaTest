@@ -1,0 +1,6 @@
+
+** (bamfdaemon:4324): CRITICAL **: bamf_matcher_set_starting_desktop_file: assertion 'desktop_file != NULL' failed
+
+** (bamfdaemon:4324): CRITICAL **: bamf_matcher_set_starting_desktop_file: assertion 'desktop_file != NULL' failed
+
+** (bamfdaemon:2476): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-9zEdFzT84W: Connection refused
